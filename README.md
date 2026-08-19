@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=vardhan-16&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -134,7 +134,7 @@ solution rather than simply memorizing implementations.
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=vardhan-16&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=vardhan-16&theme=tokyonight&hide_border=true" />
 
 </div>
 
